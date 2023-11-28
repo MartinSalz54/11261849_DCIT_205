@@ -13,6 +13,9 @@ Contact About
 ###  DESCRIPTION
 Welcome to the repository housing the HTML code for the Computer Science department website page. This page is structured with a navigation bar, a dynamic background image, engaging buttons, and a footer. It is designed to present academic information in a visually appealing manner.
 #### SCREENSHOTS
+![read me pic 1](https://github.com/MartinSalz54/11261849_DCIT_205/assets/152021718/d3eed04d-bded-4108-b70d-b070d2415bd0)
+
+![read me pic 2](https://github.com/MartinSalz54/11261849_DCIT_205/assets/152021718/06c834c9-fd89-4531-9662-37ff061c9cf5)
 
 
 
@@ -34,7 +37,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/martinsalz54/11261849_DCIT_205
 Open the index.html file in a web browser to view the Computer Science department page.
 
 Explore the navigation bar to visit different sections and click on buttons to learn more about academic programs.
